@@ -1,0 +1,19 @@
+H1 {
+    color: blue;
+    font: size 18px;
+}
+
+p {
+    color: rgba(0, 255, 255, 0.459);
+    font-size:14px;
+}
+
+H2 {
+    color: rgb(19, 80, 77);
+    font: size 16px;
+}
+
+H3 {
+    color: rgb(17, 26, 25);
+    font: size 20px;
+}
